@@ -12,7 +12,7 @@ align-content: center
 
 
 -- player: TIRTH ROY
-dp: $assets.files.images.Profilepic.jpg
+dp: $assets.files.assets.Profilepic.jpg
 
 An accomplished data scientist with a passion for transforming raw data into actionable insights.
  
@@ -116,7 +116,7 @@ role: $inherited.types.copy-regular
 -- end: button
 
 -- ftd.background-image bg-image:
-src: $assets.files.images.bg.jpg
+src: $assets.files.assets.bg.jpg
 repeat: no-repeat
 position: center
 size: cover
